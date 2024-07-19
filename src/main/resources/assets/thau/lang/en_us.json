@@ -1,6 +1,16 @@
 {
-    "item.thau.tin_ingot": "Tin Ingot",
-	"item.thau.raw_tin": "Raw Tin",
-	"block.thau.tin_ore": "Tin Ore",
+	// Tin
+	"block.thau.tin_ore": "Tin ore",
+    "item.thau.tin_ingot": "Tin ingot",
+	"item.thau.raw_tin": "Raw tin",
+	"block.thau.tin_block": "Tin block",
+
+	// Thaulit
+	"block.thau.thaulit_ore": "Thaulit ore",
+	"item.thau.thaulit_ingot": "Thaulit ingot",
+	"item.thau.raw_thaulit": "Raw thaulit",
+	"block.thau.thaulit_block": "Thaulit block",
+	
+	// Other
 	"itemGroup.thau.thau_main_group": "Thau"
 }

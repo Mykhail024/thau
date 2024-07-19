@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+	{
+		"item": "thau:thaulit_block"
+	}
+  ],
+  "result": {
+    "id": "thau:thaulit_ingot",
+    "count": 9
+  }
+}

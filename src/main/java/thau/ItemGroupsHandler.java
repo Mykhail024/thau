@@ -13,9 +13,17 @@ public final class ItemGroupsHandler {
             .icon(() -> new ItemStack(ItemsHandler.TIN_INGOT))
             .displayName(Text.translatable("itemGroup.thau.thau_main_group"))
             .entries((context, entries) -> {
+            	// Tin
                 entries.add(ItemsHandler.TIN_INGOT);
                 entries.add(ItemsHandler.RAW_TIN);
                 entries.add(BlocksHandler.TIN_ORE.asItem());
+                entries.add(BlocksHandler.TIN_BLOCK.asItem());
+                
+                // Thaulit
+                entries.add(ItemsHandler.THAULIT_INGOT);
+                entries.add(ItemsHandler.RAW_THAULIT);
+                entries.add(BlocksHandler.THAULIT_ORE.asItem());
+                entries.add(BlocksHandler.THAULIT_BLOCK.asItem());
             })
             .build();
     public static void initialize() {

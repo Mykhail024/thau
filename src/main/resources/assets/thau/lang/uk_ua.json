@@ -1,0 +1,16 @@
+{
+	// Tin
+	"block.thau.tin_ore": "Олов'яна руда",
+    "item.thau.tin_ingot": "Олов'яний злиток",
+	"item.thau.raw_tin": "Сире олово",
+	"block.thau.tin_block": "Олов'яний блок",
+
+	// Thaulit
+	"block.thau.thaulit_ore": "Таулітова руда",
+	"item.thau.thaulit_ingot": "Таулітовий злиток",
+	"item.thau.raw_thaulit": "Сирий тауліт",
+	"block.thau.thaulit_block": "Таулітовий блок",
+	
+	// Other
+	"itemGroup.thau.thau_main_group": "Thau"
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "thau:tin_ingot"
+    }
+  },
+  "result": {
+    "id": "thau:tin_block",
+    "count": 1
+  }
+}

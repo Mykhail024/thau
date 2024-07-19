@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "experience": 0.6,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "thau:tin_ore"
+  },
+  "result": {
+    "id": "thau:tin_ingot"
+  }
+}

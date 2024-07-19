@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 0.8,
+  "cookingtime": 150,
+  "ingredient": {
+    "item": "thau:raw_tin"
+  },
+  "result": {
+    "id": "thau:tin_ingot"
+  }
+}

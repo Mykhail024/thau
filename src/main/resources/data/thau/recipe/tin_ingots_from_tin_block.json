@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+	{
+		"item": "thau:tin_block"
+	}
+  ],
+  "result": {
+    "id": "thau:tin_ingot",
+    "count": 9
+  }
+}
